@@ -1,0 +1,60 @@
+============================================================
+LAPORAN SPESIFIKASI SISTEM
+============================================================
+
+Waktu Scan: 2026-02-02 21:21:11
+
+SISTEM:
+  os: Windows 10
+  version: 10.0.19045
+  architecture: 64bit
+  hostname: HYPE
+  python_version: 3.14.2
+
+CPU:
+  nama: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz
+  arch: AMD64
+  bits: 64
+  kecepatan: 1101.00 MHz
+  core_fisik: 2
+  core_logikal: 2
+  pemakaian: 90.8%
+
+RAM:
+  total: 7.83 GB
+  tersedia: 2.72 GB
+  terpakai: 5.11 GB
+  persentase: 65.3%
+
+DISK:
+  Drive: C:\
+    tipe: NTFS
+    total: 111.65 GB
+    terpakai: 91.23 GB
+    kosong: 20.41 GB
+    persentase: 81.7%
+  Drive: D:\
+    tipe: NTFS
+    total: 126.08 GB
+    terpakai: 33.79 GB
+    kosong: 92.30 GB
+    persentase: 26.8%
+
+NETWORK:
+  interface: Ethernet 2
+  ip: 192.168.56.1
+  netmask: 255.255.255.0
+  interface: Local Area Connection* 1
+  ip: 169.254.231.125
+  netmask: 255.255.0.0
+  interface: Local Area Connection* 2
+  ip: 192.168.137.1
+  netmask: 255.255.255.0
+  interface: Wi-Fi
+  ip: 192.168.0.4
+  netmask: 255.255.255.0
+  interface: Loopback Pseudo-Interface 1
+  ip: 127.0.0.1
+  netmask: 255.0.0.0
+
+============================================================
