@@ -1,0 +1,85 @@
+{
+  "tanggal": "2026-02-02 22:08:37",
+  "sistem": {
+    "OS": "Windows 10",
+    "Versi": "10.0.19045",
+    "Arsitektur": "64bit",
+    "Hostname": "HYPE",
+    "Python": "3.14.2"
+  },
+  "cpu": {
+    "Nama Processor": "Intel(R) Celeron(R) N4020 CPU @ 1.10GHz",
+    "Arsitektur": "AMD64",
+    "Bits": 64,
+    "Vendor": "GenuineIntel",
+    "Kecepatan": "1101.00 MHz",
+    "Kecepatan Max": "1101.00 MHz",
+    "Core Fisik": 2,
+    "Core Logikal": 2,
+    "Pemakaian CPU": "81.2%"
+  },
+  "ram": {
+    "Total RAM": "7.83 GB",
+    "Tersedia": "1.70 GB",
+    "Terpakai": "6.13 GB",
+    "Persentase Terpakai": "78.3%"
+  },
+  "disk": [
+    {
+      "Drive": "C:\\",
+      "Tipe": "NTFS",
+      "Total": "111.65 GB",
+      "Terpakai": "91.19 GB",
+      "Kosong": "20.45 GB",
+      "Persentase": "81.7%"
+    },
+    {
+      "Drive": "D:\\",
+      "Tipe": "NTFS",
+      "Total": "126.08 GB",
+      "Terpakai": "33.79 GB",
+      "Kosong": "92.30 GB",
+      "Persentase": "26.8%"
+    }
+  ],
+  "gpu": [
+    {
+      "Jenis": "Generic",
+      "Nama": "Intel(R) UHD Graphics 600",
+      "Driver": "31.0.101.2125",
+      "Memory": "1024 MB"
+    }
+  ],
+  "network": [
+    {
+      "Interface": "Ethernet 2",
+      "IP Address": "192.168.56.1",
+      "Netmask": "255.255.255.0"
+    },
+    {
+      "Interface": "Local Area Connection* 1",
+      "IP Address": "169.254.231.125",
+      "Netmask": "255.255.0.0"
+    },
+    {
+      "Interface": "Local Area Connection* 2",
+      "IP Address": "192.168.137.1",
+      "Netmask": "255.255.255.0"
+    },
+    {
+      "Interface": "Wi-Fi",
+      "IP Address": "192.168.0.4",
+      "Netmask": "255.255.255.0"
+    },
+    {
+      "Interface": "Loopback Pseudo-Interface 1",
+      "IP Address": "127.0.0.1",
+      "Netmask": "255.0.0.0"
+    }
+  ],
+  "bios": {
+    "Manufacturer": "American Megatrends Inc.",
+    "Version": "ALASKA - 1072009",
+    "Release Date": "20240614000000.000000+000"
+  }
+}
